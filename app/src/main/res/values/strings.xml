@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MoveAlert</string>
+    <string name="contentText">Kamera wykryła ruch</string>
+    <string name="contentTitle">Alarm</string>
+
+    <string name="notificationRequestMessage">Zaraz zapytamy Cię o pozwolenie na powiadomienia. Jeśli chcesz otrzymywać powiadomienia o alarmie, powinieneś akceptować. W przeciwnym razie możesz odrzucić. W przyszłości możesz ręcznie zezwolić na powiadomienia poprzez ustawienia systemowe.</string>
+    <string name="notificationRequestTitle">Alarm w powiadomieniach</string>
+    <string name="notificationRequestButtonText">Ok</string>
+
+
+</resources>
